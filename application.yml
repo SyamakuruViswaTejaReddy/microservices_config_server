@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: CurdH2-Default
 eureka:
   instance:
     prefer-ip-address: true
